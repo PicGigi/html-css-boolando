@@ -134,7 +134,7 @@ footer{
 }
 
 .bottom-bar-section{
-    margin: 30px 200px;
+    margin: 30px 10%;
 }
 
 .more-info h1{
@@ -143,6 +143,8 @@ footer{
 .more-info span{
     margin-right: .5em;
     margin-top: .5em;
+    display: inline-block;
+    width: max-content;
 }
 
 .socials h1{
