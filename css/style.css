@@ -107,7 +107,7 @@ main{
 }
 
 .brand{
-    font-size: 1.2em;
+    font-size: 1.1em;
     font-weight: 500;
 }
 .product-name{
@@ -125,3 +125,31 @@ main{
     text-decoration: line-through;
 }
 
+footer{
+    margin-top: 50px;
+    background-color: rgb(26,26,26);
+    color: white;
+    display: flex;
+    justify-content: space-between;
+}
+
+.bottom-bar-section{
+    margin: 30px 200px;
+}
+
+.more-info h1{
+    font-size: 1.5em;
+}
+.more-info span{
+    margin-right: .5em;
+    margin-top: .5em;
+}
+
+.socials h1{
+    font-size: 1.2em;
+}
+.socials i{
+    font-size: 1.5em;
+    margin-right: .5em;
+    margin-top: .5em;
+}
